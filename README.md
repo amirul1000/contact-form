@@ -3,9 +3,8 @@
 Contact form in PHP MySQL Codeigniter framework
 =================================================
 
-Youtube Tutorial : https://youtu.be/DR-iq6jsNJ0
+Youtube Tutorial : https://youtu.be/w0HO8WHVnfI
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
